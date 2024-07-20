@@ -1,0 +1,8 @@
+Network Log capture project
+
+
+For ubuntu:
+
+1) you need to install syslog library
+    "sudo apt-get install libsyslog-dev"
+    ![](2024-07-19-18-00-16.png)
